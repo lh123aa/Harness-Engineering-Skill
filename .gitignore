@@ -12,3 +12,8 @@ patches.json
 # 临时文件
 temp/
 *.tmp
+
+# Python
+__pycache__/
+*.pyc
+.pytest_cache/
